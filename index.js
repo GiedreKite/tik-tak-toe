@@ -1,3 +1,3 @@
-import { Layout } from "../game/Layout.js";
+import { Layout } from "./game/Layout.js";
 
 new Layout();
